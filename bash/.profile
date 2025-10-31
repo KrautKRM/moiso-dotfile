@@ -1,0 +1,2 @@
+# ~/.profile
+echo "Bienvenido $USER"
